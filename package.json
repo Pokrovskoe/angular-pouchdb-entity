@@ -1,0 +1,19 @@
+{
+  "name": "angular-pouchdb-entity",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pokrovskoe/angular-pouchdb-entity.git"
+  },
+  "author": "Roman Osipov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pokrovskoe/angular-pouchdb-entity/issues"
+  },
+  "homepage": "https://github.com/Pokrovskoe/angular-pouchdb-entity"
+}
